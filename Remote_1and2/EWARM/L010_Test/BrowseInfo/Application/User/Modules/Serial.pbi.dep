@@ -1,0 +1,42 @@
+C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\L010_Test\BrowseInfo\Application\User\Modules\Serial.pbi: \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\Core\Modules\Serial\Serial.c \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\Core\Modules\Serial\serial_user.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\Core\Modules\Serial\Serial.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Core\Inc\main.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Core\Inc\stm32l0xx_hal_conf.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_rcc.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_def.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l0xx.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\stm32l010x4.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\CMSIS\Include\core_cm0plus.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\CMSIS\Device\ST\STM32L0xx\Include\system_stm32l0xx.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stddef.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ysizet.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_rcc_ex.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_exti.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_gpio.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_gpio_ex.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_dma.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_cortex.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_flash.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_flash_ex.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_flash_ramfunc.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_i2c.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_i2c_ex.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_pwr.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_pwr_ex.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_uart.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_hal_uart_ex.h \
+  C:\Users\t_lyp\Desktop\SchoolStuff\ELEN509_2\Final_project_Files\Remote_1and2\L010_Test\EWARM\..\Drivers\STM32L0xx_HAL_Driver\Inc\stm32l0xx_ll_usart.h
